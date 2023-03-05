@@ -1,0 +1,8 @@
+C:\Users\luanr\Desktop\MeusProjetosC#\faculdade\projeto-estimação\bin\Debug\projeto-estimação.exe.config
+C:\Users\luanr\Desktop\MeusProjetosC#\faculdade\projeto-estimação\bin\Debug\projeto-estimação.exe
+C:\Users\luanr\Desktop\MeusProjetosC#\faculdade\projeto-estimação\bin\Debug\projeto-estimação.pdb
+C:\Users\luanr\Desktop\MeusProjetosC#\faculdade\projeto-estimação\obj\Debug\projeto-estimação.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\faculdade\projeto-estimação\obj\Debug\projeto-estimação.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\faculdade\projeto-estimação\obj\Debug\projeto-estimação.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\faculdade\projeto-estimação\obj\Debug\projeto-estimação.exe
+C:\Users\luanr\Desktop\MeusProjetosC#\faculdade\projeto-estimação\obj\Debug\projeto-estimação.pdb
